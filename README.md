@@ -8,10 +8,13 @@ Enter a YouTube URL and get an AI-generated summary of the video content.
 **Multilingual Support**: Translate summaries into English, Russian, or Urdu.
 
 **Detailed Explanations:** Generate in-depth explanations of topics with figures and examples.
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/d7aed66c-c29e-4391-8b9b-f93a4967d6de">
+
 
 **Save Functionality:** Export summaries and explanations to Word documents for easy sharing and reference.
 
 ****Dark Mode:**  Toggle between light and dark themes for comfortable viewing in any environment.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/b3fcd165-9c88-478c-a01c-0f72503b0a0a">
 
 **Fullscreen Mode:**  Maximize your workspace with a fullscreen option (press ESC to exit).
 
@@ -31,7 +34,7 @@ python-docx: To create and manipulate Word documents
 
 **Installation**
 Clone the repository:
-Copygit clone https://github.com/yourusername/ai-youtube-summarizer.git
+Copygit clone https://github.com/AwaisN4eem/ai-youtube-summarizer.git
 cd ai-youtube-summarizer
 Install the required dependencies:
 Copypip install -r requirements.txt
